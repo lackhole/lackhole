@@ -7,7 +7,7 @@ I'm currently majoring in both Physics and Astronomy, Computer Science and Engin
 
 Check out my latest project: [Real-time N-blackholes 3D renderer](https://github.com/lackhole/blackhole_8)
 
-| 3D Ray Tracing                | Blackhole with normal objects | Blackhole with accretion disc |
+| 3D Ray Tracing                | Blackhole with ordinary objects | Blackhole with a thin accretion disc |
 |:------------------------------|-------------------------------|:------------------------------|
 | ![3d_simul](https://github.com/lackhole/blackhole_8/blob/master/output/3d_simul.gif) | ![aespa](https://github.com/lackhole/blackhole_8/blob/master/output/aespa.gif)    | ![travel](https://github.com/lackhole/blackhole_8/blob/master/output/travel.gif)   |
 
