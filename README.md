@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-You can see my brief introduction at [here](https://lackhole.github.io)!
+Get more about me: https://lackhole.github.io
 
 I've worked as a C++ software engineer for 2 years.  
-I'm currently majoring in both phisics and astronomy, computer science and engineering.
+I'm currently majoring in both Physics and Astronomy, Computer Science and Engineering.
 
 Check out my latest project: [Real-time N-blackholes 3D renderer](https://github.com/lackhole/blackhole_8)
 
