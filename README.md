@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-https://lackhole.github.io  
+You can see my brief introduction at [here](https://lackhole.github.io)!
+
+I've worked as a C++ software engineer for 2 years.  
+I'm currently majoring in both phisics and astronomy, computer science and engineering.
+
+Check out my latest project: [Real-time N-blackholes 3D renderer](https://github.com/lackhole/blackhole_8)
+
+| 3D Ray Tracing                | Blackhole with normal objects | Blackhole with accretion disc |
+|:------------------------------|-------------------------------|:------------------------------|
+| ![3d_simul](https://github.com/lackhole/blackhole_8/blob/master/output/3d_simul.gif) | ![aespa](https://github.com/lackhole/blackhole_8/blob/master/output/aespa.gif)    | ![travel](https://github.com/lackhole/blackhole_8/blob/master/output/travel.gif)   |
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flackhole&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
