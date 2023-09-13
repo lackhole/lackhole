@@ -2,7 +2,7 @@
 
 Get more about me: https://lackhole.github.io
 
-I've worked as a C++ software engineer for 2 years.  
+I'm worked as a C++ software engineer.  
 I'm currently majoring in both Physics and Astronomy, Computer Science and Engineering.
 
 <!--
