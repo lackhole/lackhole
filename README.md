@@ -2,8 +2,8 @@
 
 Get more about me: https://lackhole.github.io
 
-I'm working as a C++ software engineer.  
-I'm currently majoring in both Physics and Astronomy, Computer Science and Engineering.
+I majored both Physics and Astronomy, Computer Science and Engineering.
+I'm currently working as a C++ software engineer.  
 
 <!--
 Check out my latest project: [Real-time N-blackholes 3D renderer](https://github.com/lackhole/blackhole_8)
